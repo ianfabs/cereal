@@ -1,0 +1,13 @@
+[package]
+name = "cereal"
+version = "0.1.0"
+authors = ["Ian Fabs <ianfabs@outlook.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serialport = "4.0.0"
+tui = "0.14"
+termion = "1.5"
+rand = "0.8.3"
